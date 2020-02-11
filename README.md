@@ -1,4 +1,4 @@
-# new-tantrix-detect
+# Tantrix Detect Dataset Generation
 
 Repository to create a dataset for computer vision.
 A lot of code is taken from [this repo](https://github.com/geaxgx/playing-card-detection) which was my original inspiration.
